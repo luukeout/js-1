@@ -100,3 +100,19 @@ arrayHere = ["tim", "jim", "dan"]
 
 console.log(arrayHere);
 
+console.log(arrayHere.length);
+
+console.log(arrayHere.join(""));
+
+console.log("dollar");
+
+console.log("dollar"[4]);
+
+console.log("dollar"["l"]); 
+// I thougth that would isolate the "l's". Didn't work.
+// Maybe you can only get the numaric value from
+// a string in an array.
+
+// I feel pretty lost on how and why these things work
+// together. 
+
